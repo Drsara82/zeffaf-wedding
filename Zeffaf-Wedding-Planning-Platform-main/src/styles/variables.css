@@ -1,0 +1,21 @@
+/* CSS Custom Properties - Color Variables */
+:root {
+  --primary: #1b7262;
+  --primary-light: #3fa39f;
+  --primary-dark: #1e5a58;
+  --primary-clear: #e8f5f3;
+
+  --secondary: #e8a598;
+  --secondary-light: #f5c1b5;
+  --secondary-dark: #d4917b;
+
+  --navy: #1b2b4d;
+  --navy-light: #2a3e5f;
+  --navy-dark: #0f1a2e;
+
+  --footer: #f4f4f4;
+  --footer-dark: #051145;
+  --footer-light: #54595f;
+  --footer-green: #1b7261;
+  --footer-ground: #fffcfc;
+}

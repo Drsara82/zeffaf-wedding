@@ -1,0 +1,96 @@
+@import "./styles/variables.css";
+@import "./styles/toastify-custom.css";
+@import url("https://fonts.googleapis.com/css2?family=Sail&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base typography & dark mode control */
+@layer base {
+  body {
+    @apply bg-white text-slate-800;
+    font-family: "Inter", system-ui, sans-serif;
+    line-height: 1.6;
+  }
+
+  .dark body {
+    @apply bg-gray-900 text-gray-100;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-navy-dark;
+  }
+
+  .dark h1,
+  .dark h2,
+  .dark h3,
+  .dark h4,
+  .dark h5,
+  .dark h6 {
+    @apply text-white;
+  }
+
+  .dark p,
+  .dark span,
+  .dark li {
+    @apply text-gray-300;
+  }
+
+  a {
+    @apply text-navy-dark no-underline;
+  }
+
+  .dark a {
+    @apply text-gray-200;
+  }
+}
+
+/* Swiper pagination */
+.my-pagination .swiper-pagination-bullet {
+  width: 18px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: var(--primary);
+  opacity: 0.25;
+  transition: 0.3s ease;
+}
+
+.my-pagination .swiper-pagination-bullet-active {
+  width: 32px;
+  opacity: 1;
+}
+
+/* Hide swiper arrows */
+.swiper-button-prev,
+.swiper-button-next {
+  display: none !important;
+}
+
+/* Marquee animation */
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@layer components {
+  .fixed-title {
+    color: var(--footer-dark) !important;
+  }
+
+  .fixed-subtitle {
+    color: var(--primary) !important;
+  }
+}

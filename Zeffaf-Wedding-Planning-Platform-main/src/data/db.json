@@ -1,0 +1,2973 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Venues",
+      "slug": "venues"
+    },
+    {
+      "id": "2",
+      "name": "Veil Designer",
+      "slug": "veil-designer"
+    },
+    {
+      "id": "3",
+      "name": "Wedding Planner",
+      "slug": "wedding-planner"
+    },
+    {
+      "id": "4",
+      "name": "Hair Dresser",
+      "slug": "hair-dresser"
+    },
+    {
+      "id": "5",
+      "name": "Favors & Products",
+      "slug": "favour-products"
+    },
+    {
+      "id": "6",
+      "name": "Officiant",
+      "slug": "officiant"
+    },
+    {
+      "id": "7",
+      "name": "Makeup Artist",
+      "slug": "makeup-artist"
+    },
+    {
+      "id": "8",
+      "name": "Dresses & Suits",
+      "slug": "dresses-and-suits"
+    },
+    {
+      "id": "9",
+      "name": "Photoshoot",
+      "slug": "photoshoot"
+    }
+  ],
+  "vendors": [
+    {
+      "id": "101",
+      "name": "The Clubhouse, Uptown Cairo, Emaar",
+      "categoryId": 1,
+      "location": "Uptown Cairo, Emaar",
+      "rating": 4.6,
+      "capacity": 500,
+      "price": 12000,
+      "description": "A luxurious wedding venue located in Uptown Cairo, Emaar, offering elegant spaces for ceremonies and receptions with a capacity of 500 guests.",
+      "availableDates": [
+        "2026-01-01",
+        "2026-01-06",
+        "2026-01-11",
+        "2026-01-16",
+        "2026-01-21",
+        "2026-01-26",
+        "2026-01-31"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1T0kZO4QKnrOYQ44zAPnMBupLKSayUrBw",
+        "https://drive.google.com/uc?export=view&id=1T0kZO4QKnrOYQ44zAPnMBupLKSayUrBw"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "7 sky hall in Vehicles House",
+      "categoryId": 1,
+      "location": "Salah Salem, Cairo",
+      "rating": 4.8,
+      "capacity": 450,
+      "price": 10000,
+      "description": "A stunning wedding venue in Salah Salem, Cairo, featuring multiple halls and spaces for grand celebrations with a capacity of 450 guests.",
+      "availableDates": [
+        "2026-01-02",
+        "2026-01-07",
+        "2026-01-12",
+        "2026-01-17",
+        "2026-01-22",
+        "2026-01-27"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=18ncn9kzaQFP6m-0LM9Y4FTWvxpe4zO-g",
+        "https://drive.google.com/uc?export=view&id=1w5NNdDxKkiNQoZiTMZ0_j43DDew8YkDo",
+        "https://drive.google.com/uc?export=view&id=1Zdvs-aFpq3pzC4JoDAs2DOfvigLulzL8",
+        "https://drive.google.com/uc?export=view&id=1m5oGBIZBnr0QyODiHlTODdc9xzECDGlz",
+        "https://drive.google.com/uc?export=view&id=1RC3KCsR0NtVWkRGkDxCup6REn6gInfF6",
+        "https://drive.google.com/uc?export=view&id=1MYbkvDFzcPgp10LPXGT2XMtn5kxY8QW3",
+        "https://drive.google.com/uc?export=view&id=1p2X77vpnHG9uXQgZTfmnMRzIiLfBoBx-",
+        "https://drive.google.com/uc?export=view&id=1GrVfuV1zZWwdwKSlItZcA7yiejym38hc",
+        "https://drive.google.com/uc?export=view&id=144l4fIAA-5GL3-FNQM6nQLZRd8tKn5pH",
+        "https://drive.google.com/uc?export=view&id=1BKrEUaYitoj4UI6UlCGX9u9ikn-S2GEn",
+        "https://drive.google.com/uc?export=view&id=117TLVU4LN1XMRGiUBUHBU6zJXvUnv8p8"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "قاعة السرايا",
+      "categoryId": 1,
+      "location": "Salah Salem, Cairo",
+      "rating": 4.7,
+      "capacity": 400,
+      "price": 9000,
+      "description": "An elegant wedding hall in Salah Salem, Cairo, perfect for intimate to medium-sized weddings with a capacity of 400 guests.",
+      "availableDates": [
+        "2026-01-03",
+        "2026-01-08",
+        "2026-01-13",
+        "2026-01-18",
+        "2026-01-23",
+        "2026-01-28"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1JbchtjZq7srWK22gRfN12wmn_kDiMy77",
+        "https://drive.google.com/uc?export=view&id=1yFe6fYIVfuvXQsqhg7U6ocio-OeYobsd",
+        "https://drive.google.com/uc?export=view&id=1A7PGnUK5cihoUjoEpSycWcYAI5ot_bJv",
+        "https://drive.google.com/uc?export=view&id=180yB1wupZUdweuxiOQidjXh0YCwVx1Bx",
+        "https://drive.google.com/uc?export=view&id=1LdLQg-pcuG9C8mS1ZwvTtIzFtRFCZOzi",
+        "https://drive.google.com/uc?export=view&id=1feBaQgsnlGoXnGqvVvbdq091D3b9oGbe"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "قاعة حياة للافراح بدار القوات الجوية",
+      "categoryId": 1,
+      "location": "Nasr City, Cairo",
+      "rating": 4.5,
+      "capacity": 350,
+      "price": 11000,
+      "description": "A charming wedding hall at the Air Force House in Nasr City, Cairo, offering a unique setting for weddings with a capacity of 350 guests.",
+      "availableDates": [
+        "2026-01-01",
+        "2026-01-06",
+        "2026-01-11",
+        "2026-01-16",
+        "2026-01-21",
+        "2026-01-26",
+        "2026-01-31"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1fLijYKZZ6L73UdshG7V5l9HsUFI6I0s6",
+        "https://drive.google.com/uc?export=view&id=1rhIIgD168ZgOSCi6iHBF2dRFIUELnhtC",
+        "https://drive.google.com/uc?export=view&id=1FriAKSiOrJzd7waen63AwkEndJbdc9oA",
+        "https://drive.google.com/uc?export=view&id=1pOohSuUFdJJXf758uOSfwAoR1Ix1FBOn",
+        "https://drive.google.com/uc?export=view&id=1eNGTg4E6NKN8g9N8iH1e3cck8fWMzb1L",
+        "https://drive.google.com/uc?export=view&id=1cvX4cSKkqSdVYECjQuN1fWjb46fXji_z"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "قاعة VIP للأفراح",
+      "categoryId": 1,
+      "location": "El-Zawya El-Hamra, Cairo",
+      "rating": 4.3,
+      "capacity": 300,
+      "price": 9500,
+      "description": "A VIP wedding hall in El-Zawya El-Hamra, Cairo, providing luxurious amenities for exclusive weddings with a capacity of 300 guests.",
+      "availableDates": [
+        "2026-01-02",
+        "2026-01-07",
+        "2026-01-12",
+        "2026-01-17",
+        "2026-01-22",
+        "2026-01-27"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1O_Ptj_fvhLDlb5PC05flf_i8gBlgGOsD",
+        "https://drive.google.com/uc?export=view&id=1IRl0DFkUZUo5qKybnZINtRq3gl49wjPU",
+        "https://drive.google.com/uc?export=view&id=16HtJwQDUyo8oXfkWBzF4aSymt7nczwsX",
+        "https://drive.google.com/uc?export=view&id=1UNPBWov-YBcwG4NKicpGn8fwvxDbP4DE",
+        "https://drive.google.com/uc?export=view&id=1GvNiE-aYr4KWGWJuxiVpf5-uy04ChKiJ",
+        "https://drive.google.com/uc?export=view&id=13Aa0B5ozt1N2Rc1HaxsUPcSF2_MdaRPk",
+        "https://drive.google.com/uc?export=view&id=1UiYk93_WcN5bZgeumeIFE8xG-l2YNDRW"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Lamour Hall",
+      "categoryId": 1,
+      "location": "Cairo",
+      "rating": 4.6,
+      "capacity": 600,
+      "price": 13000,
+      "description": "Lamour Hall in Cairo, a grand venue for large weddings, accommodating up to 600 guests with elegant decor and modern facilities.",
+      "availableDates": [
+        "2026-01-01",
+        "2026-01-06",
+        "2026-01-11",
+        "2026-01-16",
+        "2026-01-21",
+        "2026-01-26",
+        "2026-01-31"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1gNg8BLlHe531hcfY1pCeM3D9u0kpD81_",
+        "https://drive.google.com/uc?export=view&id=1ww1xOV-33aMW1p746vfwIFYQvGTUwaZu",
+        "https://drive.google.com/uc?export=view&id=1KVw-3iQgf7xbtkg7eOFyFsaACKx_i-zi",
+        "https://drive.google.com/uc?export=view&id=1qKAMVdQj5TNLTr5hKBRUXG6GrqCyioxQ",
+        "https://drive.google.com/uc?export=view&id=1Ukhtte7c5peRuiNuXiA35u3ItOQWdkMp"
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Khan ElKalily Wedding Venue",
+      "categoryId": 1,
+      "location": "Dar El Salam, Cairo",
+      "rating": 4.3,
+      "capacity": 300,
+      "price": 9000,
+      "description": "A welcoming wedding venue in Dar El Salam, Cairo, offering a comfortable and intimate atmosphere perfect for celebrations. The hall provides elegant spaces with warm ambiance, ideal for hosting gatherings of various sizes with style and grace.",
+      "availableDates": [
+        "2026-01-03",
+        "2026-01-08",
+        "2026-01-13",
+        "2026-01-18",
+        "2026-01-23",
+        "2026-01-28"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Sf8Lc9d1lwRfKiFXL1UEoDGn2tddyz8U",
+        "https://drive.google.com/uc?export=view&id=1hjjXeS2YcJoSGDcGp9MugDiu087vLMSD",
+        "https://drive.google.com/uc?export=view&id=1ADBuVzOkqCSmhkb_UjE9tfsOeDvmT48c",
+        "https://drive.google.com/uc?export=view&id=14pXvbll137Nr_E_XoAxwfUcLqNZB7mf4",
+        "https://drive.google.com/uc?export=view&id=1OZOOh0XklyjhSTZ96uooaqClXN2I2_ac",
+        "https://drive.google.com/uc?export=view&id=1K_mL1-XpjqqxQUG-MLjhTcd-lJ965OYK",
+        "https://drive.google.com/uc?export=view&id=1nZT_TbAEHx61fR8P1Y7DShb69uQwV_fu",
+        "https://drive.google.com/uc?export=view&id=1ADFf0SKiuNBMnz80wAvCa7AslrqT2giI"
+      ],
+      "reviews": [
+        {
+          "id": 1766066396669,
+          "user": "سيبسيب",
+          "comment": "greaaaaaaaaaaaaaaaaaaat",
+          "rate": 5
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "name": "La Vida Wedding Venue",
+      "categoryId": 1,
+      "location": "المريوطية، هرم، Giza, Egypt",
+      "rating": 4.1,
+      "capacity": 300,
+      "price": 9500,
+      "description": "قاعة أفراح La Vida في المريوطية بمنطقة هادئة وخيارات ديكور متعددة مناسبة للأعراس والمناسبات.",
+      "availableDates": [
+        "2026-01-02",
+        "2026-01-07",
+        "2026-01-12",
+        "2026-01-17",
+        "2026-01-22",
+        "2026-01-27"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1UY-saU6-Hc7h1I5wAT4ZodVyH8srcSIZ",
+        "https://drive.google.com/uc?export=view&id=1Yz4bA-qBdvxuPu0hLjgPpjvyyuNl8f1J",
+        "https://drive.google.com/uc?export=view&id=1YoTDAEDeA-KKNqL74xVj7RJNUQJjlUEo",
+        "https://drive.google.com/uc?export=view&id=1Pdo-rjJNtvglHHyqkSsPmR2Uow29M8z_",
+        "https://drive.google.com/uc?export=view&id=1oPDs-h7H4S8dDuD-Xa7QLIpYgNZes9EG",
+        "https://drive.google.com/uc?export=view&id=1y_DpQsTdkiSJCBU9dak-zQhqa9E6qGbr",
+        "https://drive.google.com/uc?export=view&id=1zD-2li-P9EK0XmmJh4fNuJZJez7scl1q",
+        "https://drive.google.com/uc?export=view&id=1Ek_iQWhAUQmNQ8i19b6SQ_5fBoXvbLZI",
+        "https://drive.google.com/uc?export=view&id=1vug6OpO6Ub53cCqONuB7X80ihrrPvAQy",
+        "https://drive.google.com/uc?export=view&id=1qjAYRb6KogQXiSkWGX02r4govTLnExbn",
+        "https://drive.google.com/uc?export=view&id=1q2fz3bSmTOF9NBFQe2DQ2ivsDyfth0xN",
+        "https://drive.google.com/uc?export=view&id=1UFtVyafqHbg4eBN6jpQ6GDEBRJ2WSq9N",
+        "https://drive.google.com/uc?export=view&id=1WW8tmU-iJFSlBjwlfu5vDxMd5E8cT1wc",
+        "https://drive.google.com/uc?export=view&id=1dQ2d4jKJweD76y6zKGDsM195oB314EWP"
+      ],
+      "reviews": [
+        {
+          "id": 1766064915318,
+          "user": "aaaaaaaaaaaaaaaa",
+          "comment": "aaaaaaaaaa",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Air Defense Wedding Halls",
+      "categoryId": 1,
+      "location": "Nasr City, Cairo, Egypt",
+      "phone": "01113406111",
+      "rating": 4.3,
+      "capacity": 500,
+      "price": 12000,
+      "availableDates": [
+        "2026-01-01",
+        "2026-01-06",
+        "2026-01-11",
+        "2026-01-16",
+        "2026-01-21",
+        "2026-01-26",
+        "2026-01-31"
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1GdsQjO3FSTSWpLsDN0yCfVOThE2pax8h",
+        "https://drive.google.com/uc?export=view&id=1B3Ghznpm_uz55-ajnsJgEZKv_eq4nTxX",
+        "https://drive.google.com/uc?export=view&id=1bJsAXkJEKcH1V-qdGmvDDZOv-ZrsCJUi",
+        "https://drive.google.com/uc?export=view&id=1vVTcL9ZB0G2BroK2RkK5xXAk73SjT4jA",
+        "https://drive.google.com/uc?export=view&id=1W8Te-QINIRgPW_fg5Th1zwIWBZsInzdP",
+        "https://drive.google.com/uc?export=view&id=1ifFfnrKwREhA_AW4wWZtTNjxsFtyVhjw",
+        "https://drive.google.com/uc?export=view&id=1SdHa03i1EYM7rx7Pj6XoQZprGFCLjdNI",
+        "https://drive.google.com/uc?export=view&id=1CBVnFERHTiwCw_XjIIWNTWEuQfpBjJ6h",
+        "https://drive.google.com/uc?export=view&id=1mjzwYg2veJACKT-xh9p01zYJtA1n6klx"
+      ],
+      "description": "قاعات أفراح دار الدفاع الجوي متعددة المساحات والتصاميم داخل مدينة نصر، مناسبة للمناسبات والأفراح الكبيرة."
+    },
+    {
+      "id": "201",
+      "name": "Shyimaa Ahmed",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1WdS_srA0GJsRVv8WE-Jcg1uD6RxRfZnH",
+      "categoryId": 2,
+      "location": "Cairo",
+      "phone": "01111262385",
+      "website": "https://www.instagram.com/shyimaaahmed_veil_designer",
+      "rating": 4.6,
+      "description": "Specializes in bridal veil design and styling that complements your wedding dress perfectly. Provides professional hair and veil coordination with secure, long-lasting fixing throughout your celebration.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Sara",
+          "comment": "Elegant veil and strong fixing",
+          "rate": 5
+        },
+        {
+          "id": 2,
+          "user": "Mona",
+          "comment": "Very professional",
+          "rate": 4
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Classic Veil",
+          "price": 2500,
+          "services": ["Veil design", "Hair styling", "Basic fixing"]
+        },
+        {
+          "id": 2,
+          "title": "Bride Full Look",
+          "price": 4500,
+          "services": [
+            "Custom veil",
+            "Hair styling",
+            "Accessories",
+            "Long fixing"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1NCr1yIi0zJM3zdv_jQal_1wiSC0yNLC8",
+        "https://drive.google.com/uc?export=view&id=1ts67r9FTksx0avE4BlYFKkcbKcrFoSFM",
+        "https://drive.google.com/uc?export=view&id=1fGeKKHczxLLGCAOJUF8xs2KR2bzlJiDw",
+        "https://drive.google.com/uc?export=view&id=1qiHsgHveIsPdEp17pAbvg8LDr9NMugQu",
+        "https://drive.google.com/uc?export=view&id=1mHVVR8bY2ljtrNZpSTDnW9xIDCWu81pq",
+        "https://drive.google.com/uc?export=view&id=1877S4eFW3zt7R_rwXiPbPAEXlYU_OI-l"
+      ]
+    },
+    {
+      "id": "202",
+      "name": "Asmaa Veil Designer",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1PMxqp1DuX9XsaKyvSmL_KaSW1-XGIL5w",
+      "categoryId": 2,
+      "location": "Cairo",
+      "phone": "01140441966",
+      "website": "https://www.instagram.com/asmaa_veil_designer_",
+      "rating": 4.8,
+      "description": "Creates elegant bridal veils with detailed craftsmanship that matches your dress style and personal aesthetic. Offers custom veil design with professional hair styling and secure fixing to ensure a polished bridal appearance.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Nour",
+          "comment": "Luxury veil details",
+          "rate": 5
+        },
+        {
+          "id": 1766076029300,
+          "user": "Aya",
+          "comment": "It's professional",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Standard Package",
+          "price": 3000,
+          "services": ["Veil styling", "Hair fixing"]
+        },
+        {
+          "id": 2,
+          "title": "Premium Package",
+          "price": 5500,
+          "services": [
+            "Custom veil",
+            "Hair styling",
+            "Accessories",
+            "Full fixing"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1nns2kjYXi2gpUCOnxJeVyn88GamrgDML",
+        "https://drive.google.com/uc?export=view&id=1tik4CHdipunkbUgFHnz7YQ_3D--7-kNv",
+        "https://drive.google.com/uc?export=view&id=1ULfYOq6UDA28_uwC4IJo1FZinQ7HAe69",
+        "https://drive.google.com/uc?export=view&id=1eHdR5E8sBeKZ9X32ZqdeJs4aY-2Vkn8C",
+        "https://drive.google.com/uc?export=view&id=1DV1zC8N_EVIwytUPZlX8whVViqeoBszK",
+        "https://drive.google.com/uc?export=view&id=1ZFivQgDLbLPseab7SEu8hfjoNKM8XTZJ"
+      ]
+    },
+    {
+      "id": "203",
+      "name": "Amira Samy",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1QX7yIiqvHLpkTCBEYha5Embiu3bOgwtS",
+      "categoryId": 2,
+      "location": "Alexandria",
+      "phone": "",
+      "website": "https://www.instagram.com/amirasamy.hair_veil",
+      "rating": 4.7,
+      "description": "Specializes in coordinating hair styling and veil design for a seamless, unified bridal look. Works closely with brides to select veils that enhance dress styles and personal preferences with professional, secure application.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Heba",
+          "comment": "Perfect hair and veil combo",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Hair & Veil",
+          "price": 3500,
+          "services": ["Hair styling", "Veil styling", "Fixing"]
+        },
+        {
+          "id": 2,
+          "title": "Bride Day Package",
+          "price": 6000,
+          "services": [
+            "Hair styling",
+            "Custom veil",
+            "Accessories",
+            "On-location fixing"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1c0gxLE8YP3DT7XvPdT1lYYaCvzRTgh4z",
+        "",
+        "https://drive.google.com/uc?export=view&id=1g94VRKhRbs6JTaASYFtUqn3gNsSuBKea",
+        "https://drive.google.com/uc?export=view&id=199nvt95NJ99nJZmPejz8DJrc3wEUNHNT",
+        "https://drive.google.com/uc?export=view&id=1yATfgSF61rlhoYnUXum1l67QI_MT4tcd",
+        "https://drive.google.com/uc?export=view&id=1UZOpTugWZc4dHuHDJGMh36EnYwIUF5cc"
+      ]
+    },
+    {
+      "id": "204",
+      "name": "Nada El Sherif",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1JXq6F5XRY4tPuEEOzZ8Jm6YWj_oVAyvo",
+      "categoryId": 2,
+      "location": "Cairo",
+      "phone": "01000329124",
+      "website": "https://www.instagram.com/nadaelsherif_veildesigner",
+      "rating": 4.9,
+      "description": "Designs luxury bridal veils that beautifully complement your dress and enhance your overall bridal aesthetic. Provides meticulous styling and professional fixing that ensures your veil stays secure and elegant throughout the day.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Mai",
+          "comment": "Classy and clean work",
+          "rate": 5
+        },
+        {
+          "id": 2,
+          "user": "Aya",
+          "comment": "Worth every pound",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Elegant Veil",
+          "price": 4000,
+          "services": ["Veil design", "Professional fixing"]
+        },
+        {
+          "id": 2,
+          "title": "Luxury Bride",
+          "price": 7000,
+          "services": [
+            "Luxury veil",
+            "Accessories",
+            "Full styling",
+            "Long fixing"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1cwBcKiO_PReVv4Lrlfrg2-W2f3ZY95vx",
+        "https://drive.google.com/uc?export=view&id=1S16P9lbWPDNxH-iLMuZH_rZyhf88DaS2",
+        "https://drive.google.com/uc?export=view&id=1VHpuxHV2oPoYsjtTpjA60I6E-_wHZT__",
+        "https://drive.google.com/uc?export=view&id=1nQ0ie1hfbIbYcZ7buPW9Q73YJz528m-T",
+        "https://drive.google.com/uc?export=view&id=1z1I_6L5B9HiDdktJfaaHWFln3kJV2ORm",
+        "https://drive.google.com/uc?export=view&id=1ZgsaHWUXqcOh2QNJK7KWOsM4vBXh69z6"
+      ]
+    },
+    {
+      "id": "301",
+      "name": "Fatma Elshazly",
+      "profileImage": "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765982349/FatmaElshazly_ltr9un.jpg",
+      "categoryId": 3,
+      "location": "Cairo",
+      "priceFrom": 20000,
+      "phone": ["01099002717", "01111100887"],
+      "website": "https://www.instagram.com/fatmaweddingplanner",
+      "rating": 4.8,
+      "description": "Provides comprehensive wedding planning and coordination services with meticulous attention to timelines and vendor management. Creates a stress-free planning experience by handling all details and logistics for your special day.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Nada",
+          "comment": "Very organized and detail oriented",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Day Coordination",
+          "price": 20000,
+          "duration": "Wedding day",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Timeline management",
+            "Vendor coordination",
+            "On-site supervision"
+          ],
+          "note": "Best for couples with vendors already booked"
+        },
+        {
+          "id": 2,
+          "title": "Full Wedding Planning",
+          "price": 35000,
+          "duration": "Full planning period",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Vendor sourcing",
+            "Budget planning",
+            "Full event coordination",
+            "Wedding day supervision"
+          ],
+          "note": "Most popular package"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765982349/FatmaElshazly_ltr9un.jpg"
+      ]
+    },
+    {
+      "id": "302",
+      "name": "Heba Mansour",
+      "profileImage": "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765982953/Heba_Mansour_irzfez.jpg",
+      "categoryId": 3,
+      "location": "Cairo",
+      "priceFrom": 15000,
+      "phone": [],
+      "website": "https://www.instagram.com/monasba_byhebamansour",
+      "rating": 4.5,
+      "description": "Specializes in creative wedding planning with excellent vendor coordination and timeline management from start to finish. Offers flexible packages designed to reduce stress and ensure your wedding runs smoothly with attention to every detail.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Sara",
+          "comment": "Creative ideas and good communication",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Partial Planning",
+          "price": 15000,
+          "duration": "2–3 months",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Vendor recommendations",
+            "Design guidance",
+            "Wedding timeline"
+          ],
+          "note": "Flexible package"
+        },
+        {
+          "id": 2,
+          "title": "Full Planning",
+          "price": 28000,
+          "duration": "Full planning period",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Full vendor management",
+            "Budget tracking",
+            "Event styling",
+            "Wedding day coordination"
+          ],
+          "note": "Ideal for busy couples"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765982953/Heba_Mansour_irzfez.jpg",
+        "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765985274/Screenshot_2025-12-17_172723_djgmwi.png"
+      ]
+    },
+    {
+      "id": "303",
+      "name": "Ahmed Yassin",
+      "profileImage": "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765983469/Ahmed_Yassin_dhhg70.jpg",
+      "categoryId": 3,
+      "location": "Giza",
+      "priceFrom": 18000,
+      "phone": ["01011116998", "01033335367"],
+      "website": "https://www.instagram.com/ahmedyassinweddingplanner",
+      "rating": 4.6,
+      "description": "Handles complete wedding planning and coordination with professional vendor management and detailed timeline execution. Ensures a stress-free experience by managing all logistics and coordinating seamlessly across all aspects of your celebration.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "comment": "Professional handling of the whole event",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Wedding Day Management",
+          "price": 18000,
+          "duration": "Wedding day",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Vendor coordination",
+            "Schedule management",
+            "On-site supervision"
+          ],
+          "note": "Smooth wedding day execution"
+        },
+        {
+          "id": 2,
+          "title": "Complete Wedding Planning",
+          "price": 30000,
+          "duration": "Full planning period",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Vendor sourcing",
+            "Budget planning",
+            "Full coordination",
+            "Wedding day supervision"
+          ],
+          "note": "End-to-end service"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765983469/Ahmed_Yassin_dhhg70.jpg"
+      ]
+    },
+    {
+      "id": "304",
+      "name": "Mona Hosny",
+      "profileImage": "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765985507/Mona_Hosny_qshqky.jpg",
+      "categoryId": 3,
+      "location": "Cairo",
+      "priceFrom": 25000,
+      "phone": ["01022227883"],
+      "website": "https://www.instagram.com/monahosny.events",
+      "rating": 4.9,
+      "description": "Delivers luxury wedding planning with expert coordination across vendors and meticulous timeline management for high-end celebrations. Creates a seamless, stress-free experience through comprehensive planning and professional oversight of every element.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Lina",
+          "comment": "Luxury level organization and styling",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Premium Planning",
+          "price": 25000,
+          "duration": "3–4 months",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Vendor management",
+            "Event styling",
+            "Timeline creation"
+          ],
+          "note": "High-end weddings"
+        },
+        {
+          "id": 2,
+          "title": "Luxury Full Planning",
+          "price": 40000,
+          "duration": "Full planning period",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Full wedding planning",
+            "Luxury vendors",
+            "On-site coordination",
+            "Wedding day supervision"
+          ],
+          "note": "Most requested package"
+        }
+      ],
+      "images": [
+        "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765985507/Mona_Hosny_qshqky.jpg",
+        "https://res.cloudinary.com/dxfx55qhr/image/upload/v1765985673/Screenshot_2025-12-17_173241_vz5mal.png"
+      ]
+    },
+    {
+      "id": "401",
+      "name": "Monica Ramzy",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1PD-TpcyDcMDDLCV9S2hiPIWI3kyNUuXM",
+      "categoryId": 4,
+      "location": "Cairo",
+      "phone": "01223164607",
+      "website": "https://www.instagram.com/monicaramzyhairdresser/",
+      "rating": 4.3,
+      "description": "Specializes in elegant bridal hairstyles with professional preparation and calm guidance throughout the process. Creates beautiful, lasting styles that complement your overall wedding look with meticulous attention to hair health and styling.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Mariam",
+          "comment": "Very elegant bridal hairstyle",
+          "rate": 5
+        },
+        {
+          "id": 2,
+          "user": "Reem",
+          "comment": "Professional and calm",
+          "rate": 4
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Engagement Hair",
+          "price": 4000,
+          "services": ["Engagement hairstyle", "Hair accessories fixing"]
+        },
+        {
+          "id": 2,
+          "title": "Wedding Day",
+          "price": 8500,
+          "services": [
+            "Bridal hairstyle",
+            "One hair trial",
+            "Veil or crown fixing",
+            "Stay till ceremony"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Full Wedding Experience",
+          "price": 12000,
+          "services": [
+            "Bridal hairstyle",
+            "Two hair trials",
+            "Hair extensions fixing",
+            "Stay till reception",
+            "Touch-ups"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1PD-TpcyDcMDDLCV9S2hiPIWI3kyNUuXM",
+        "https://drive.google.com/uc?export=view&id=12Q-wsyHj8Eh7j2SAvrZQiR1LF2_pxvbq"
+      ]
+    },
+    {
+      "id": "402",
+      "name": "Doly Hesham",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1nGPkF5WSQ8h5P2a3WPDxJflgMmBVDrzi",
+      "categoryId": 4,
+      "location": "Nasr City, Cairo",
+      "phone": "01021092657",
+      "website": "https://www.instagram.com/doly_hesham_hair_dresser/",
+      "rating": 4.3,
+      "description": "Offers soft and natural bridal hairstyles with thorough hair preparation and professional care. Creates personalized looks for your wedding day with trials and dedicated fixing to ensure your style lasts beautifully.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Aya",
+          "comment": "Soft and natural look",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Soft Bride",
+          "price": 5500,
+          "services": [
+            "Soft bridal hairstyle",
+            "Hair preparation",
+            "Veil fixing"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Classic Bride",
+          "price": 8000,
+          "services": [
+            "Classic bridal hairstyle",
+            "Hair trial",
+            "Crown or veil fixing",
+            "Stay till ceremony"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Luxury Bride",
+          "price": 11000,
+          "services": [
+            "Luxury bridal hairstyle",
+            "Two hair trials",
+            "Extensions fixing",
+            "Stay till reception"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1nGPkF5WSQ8h5P2a3WPDxJflgMmBVDrzi",
+        "https://drive.google.com/uc?export=view&id=1yXb2XVrW6xZvr39Ns6_lJTVEMMnfYgNa"
+      ]
+    },
+    {
+      "id": "403",
+      "name": "Magi Borhan",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1FUVh0s8kTX-O-r9PrrXhlQ4Bel-vCMWu",
+      "categoryId": 4,
+      "location": "Nasr City, Cairo",
+      "phone": "01026122827",
+      "website": "https://www.instagram.com/magi_borhan_hairdresser/",
+      "rating": 4.3,
+      "description": "Provides detailed, signature bridal hairstyles with comprehensive preparation and professional support for your wedding day. Offers multiple trials and expert fixing techniques to ensure your hair looks perfect and stays in place throughout the celebration.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Nour",
+          "comment": "Very detailed work",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Engagement Look",
+          "price": 4500,
+          "services": ["Engagement hairstyle", "Hair accessories fixing"]
+        },
+        {
+          "id": 2,
+          "title": "Bride Signature",
+          "price": 9000,
+          "services": [
+            "Signature bridal hairstyle",
+            "Hair trial",
+            "Veil and crown fixing",
+            "Stay till ceremony"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Bride Plus",
+          "price": 14000,
+          "services": [
+            "Bridal hairstyle",
+            "Unlimited trials",
+            "Hair extensions",
+            "Stay till reception",
+            "Full touch-ups"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1FUVh0s8kTX-O-r9PrrXhlQ4Bel-vCMWu",
+        "https://drive.google.com/uc?export=view&id=17h9yn5QikX-v_XLTDM2sOu4hXTGp5mCy",
+        "https://drive.google.com/uc?export=view&id=1TKUEiod-dvG0jqC0ACZ-ZVesm2zbo9cg",
+        "https://drive.google.com/uc?export=view&id=1tnxKZR84zM8toz-muOvFzrmK8puhZHQp"
+      ]
+    },
+    {
+      "id": "601",
+      "name": "El Sheikh Abdallah Ashraf",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1JsEAKn1IN0A5W7QzrA-yawGnWyzmf05z",
+      "categoryId": 6,
+      "location": "Nasr City, Cairo",
+      "phone": "01119640204",
+      "website": "https://www.instagram.com/elmaazzoon",
+      "rating": 5,
+      "description": "Conducts formal marriage contract ceremonies with professional handling of all legal documentation and official registration. Brings calm, respectful guidance to this important formal process ensuring clarity and proper legal compliance.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Ahmed",
+          "comment": "Calm respectful and organized",
+          "rate": 5
+        },
+        {
+          "id": 2,
+          "user": "Salma",
+          "comment": "Explained everything clearly",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Standard Katb Ketab",
+          "price": 2000,
+          "duration": "30 minutes",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Marriage contract",
+            "Legal documentation",
+            "Official registration"
+          ],
+          "note": "Inside Cairo only"
+        },
+        {
+          "id": 2,
+          "title": "Katb Ketab + Short Speech",
+          "price": 3000,
+          "duration": "45 minutes",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Marriage contract",
+            "Religious advice",
+            "Short speech for family"
+          ],
+          "note": "Suitable for small gatherings"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1JsEAKn1IN0A5W7QzrA-yawGnWyzmf05z",
+        "https://drive.google.com/uc?export=view&id=1zsRJJmSUkvGIA-XPodbpVXATUZkkhcEL",
+        "https://drive.google.com/uc?export=view&id=17FLhPfcQ194gJkj816akcYUE-iKMWuyE",
+        "https://drive.google.com/uc?export=view&id=1S55pQXjzFL5tGZa_0_itXK-W81_6HE_V"
+      ]
+    },
+    {
+      "id": "602",
+      "name": "Osama Kabeel",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1m8pd-dIN3HcXecWI_5963C5toB8cScYH",
+      "categoryId": 6,
+      "location": "Giza, Cairo",
+      "phone": "Contact via social media",
+      "website": "https://www.instagram.com/dr.osama_kabeel/",
+      "rating": 5,
+      "description": "Officiates marriage contracts with professional expertise in legal documentation and formal registration procedures. Provides clear guidance and respectful handling of this essential formal ceremony with attention to all requirements.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Mostafa",
+          "comment": "Very well spoken and professional",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Katb Ketab",
+          "price": 2500,
+          "duration": "30 minutes",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Marriage contract",
+            "Legal documentation",
+            "Official registration"
+          ],
+          "note": "Travel fees may apply outside Giza"
+        },
+        {
+          "id": 2,
+          "title": "Katb Ketab + Advice Session",
+          "price": 3500,
+          "duration": "45 minutes",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Marriage contract",
+            "Religious guidance",
+            "Advice for couple"
+          ],
+          "note": "Includes short counseling"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1m8pd-dIN3HcXecWI_5963C5toB8cScYH",
+        "https://drive.google.com/uc?export=view&id=1a0wVYnfSSxLq6auRhA787ECEBTnEcNHc"
+      ]
+    },
+    {
+      "id": "603",
+      "name": "Ashraf Mossa",
+      "profileImage": "https://drive.google.com/uc?export=view&id=18DbRD_CwMjaMVEJGhgOuW1Z5CBAH2waN",
+      "categoryId": 6,
+      "location": "Giza, Cairo",
+      "phone": "01125817828",
+      "website": "https://www.instagram.com/ashrafmoussaaa/",
+      "rating": 5,
+      "description": "Performs marriage contract ceremonies with meticulous attention to legal procedures and formal requirements. Delivers professional and respectful service ensuring all documentation is properly completed for official registration.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Rana",
+          "comment": "Very organized and punctual",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Basic Katb Ketab",
+          "price": 2200,
+          "duration": "30 minutes",
+          "onLocation": true,
+          "recommended": false,
+          "services": ["Marriage contract", "Legal paperwork"],
+          "note": "Best for quick ceremonies"
+        },
+        {
+          "id": 2,
+          "title": "Katb Ketab Ceremony",
+          "price": 3200,
+          "duration": "45 minutes",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Marriage contract",
+            "Religious speech",
+            "Family blessings"
+          ],
+          "note": "Most requested package"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=18DbRD_CwMjaMVEJGhgOuW1Z5CBAH2waN",
+        "https://drive.google.com/uc?export=view&id=1rJ06UG3kskvkh_tFaauUKBNyPKv-lO6-",
+        "https://drive.google.com/uc?export=view&id=1UPC_wSW99MsgenPrSfM6C6gEYwjZ6-IR"
+      ]
+    },
+    {
+      "id": "701",
+      "name": "Nour Audi",
+      "profileImage": "https://drive.google.com/uc?export=view&id=19IRC9WqGhhej-2pIJIJYTWiR_j-K-Phs",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01097032183",
+      "website": "https://www.instagram.com/nooraudii/",
+      "rating": 3.6,
+      "description": "Specializes in bridal makeup with focus on soft, natural finishes that enhance your features throughout the day. Offers comfortable application and ensures makeup stays flawless from ceremony to reception with professional fixing techniques.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Salma",
+          "comment": "Soft makeup look",
+          "rate": 4
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Engagement Makeup",
+          "price": 3500,
+          "duration": "2 hours",
+          "onLocation": false,
+          "recommended": false,
+          "services": ["Engagement makeup", "Lashes", "Skin prep"],
+          "note": "No touch-ups included"
+        },
+        {
+          "id": 2,
+          "title": "Wedding Makeup",
+          "price": 6500,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Bridal makeup",
+            "Lashes",
+            "Fixing",
+            "Stay till ceremony"
+          ],
+          "note": "Best for wedding day"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=19IRC9WqGhhej-2pIJIJYTWiR_j-K-Phs",
+        "https://drive.google.com/uc?export=view&id=1Cq66TlE0jp4CuJZFBe7mpx9_YJ2Z97k2"
+      ]
+    },
+    {
+      "id": "702",
+      "name": "Rita Banna",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1pfHAknl9lykjDE65WzLzNiPubN0jMm4w",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01227301100",
+      "website": "https://www.instagram.com/makeupbyritabanna/",
+      "rating": 3.6,
+      "description": "Offers clean, elegant bridal makeup with emphasis on natural beauty and comfort. Creates polished looks that photograph beautifully and remain fresh throughout your wedding day with long-lasting formulas and careful fixing.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Mona",
+          "comment": "Clean makeup",
+          "rate": 4
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Soft Bride",
+          "price": 4000,
+          "duration": "3 hours",
+          "onLocation": false,
+          "recommended": false,
+          "services": ["Soft bridal makeup", "Lashes", "Skin prep"],
+          "note": "Natural finish"
+        },
+        {
+          "id": 2,
+          "title": "Classic Bride",
+          "price": 7000,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": [
+            "Classic bridal makeup",
+            "Lashes",
+            "Fixing",
+            "Stay till ceremony"
+          ],
+          "note": "Most booked package"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1pfHAknl9lykjDE65WzLzNiPubN0jMm4w",
+        "https://drive.google.com/uc?export=view&id=1qQKpUNEL7ynBZ7kNG_2StEXdZyeKxM0P"
+      ]
+    },
+    {
+      "id": "703",
+      "name": "Aya Mohsen",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1Ee9Kh2w-uM7nWKvYFPDgTEd4hEYoYaht",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01101503001",
+      "website": "https://www.instagram.com/ayamohsen__makeup_artist/",
+      "rating": 3.6,
+      "description": "Creates natural yet elegant bridal makeup that highlights your best features with a comfortable, lightweight feel. Ensures long-lasting wear with professional application and dedicated fixing support to keep you looking radiant all day.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Nour",
+          "comment": "Natural look",
+          "rate": 4
+        },
+        {
+          "id": 1768010726837,
+          "user": "suzan",
+          "comment": "تحفه تحفه تحفه",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Engagement Look",
+          "price": 3800,
+          "duration": "2 hours",
+          "onLocation": false,
+          "recommended": false,
+          "services": ["Engagement makeup", "Lashes"],
+          "note": "Light coverage"
+        },
+        {
+          "id": 2,
+          "title": "Wedding Day",
+          "price": 6800,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Bridal makeup", "Lashes", "Fixing"],
+          "note": "Long-lasting makeup"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Ee9Kh2w-uM7nWKvYFPDgTEd4hEYoYaht",
+        "https://drive.google.com/uc?export=view&id=1QFebPMgeEP5F2eMQToVW0TdFQ_ZKhkT0"
+      ]
+    },
+    {
+      "id": "704",
+      "name": "Manar Amin",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1_q2-xj-QF4cL_Gl3vnZxOl9T8SX_1kPB",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01099023024",
+      "website": "https://www.instagram.com/makeupbymanaramin/",
+      "rating": 3.6,
+      "description": "Provides versatile bridal makeup services from simple to classic styles with focus on comfort and durability. Professional application ensures makeup lasts through your entire wedding day while maintaining a natural, polished appearance.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Nada",
+          "comment": "Everyday bridal makeup",
+          "rate": 4
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Bride Simple",
+          "price": 3000,
+          "duration": "2 hours",
+          "onLocation": false,
+          "recommended": false,
+          "services": ["Simple bridal makeup", "Lashes"],
+          "note": "Budget friendly"
+        },
+        {
+          "id": 2,
+          "title": "Bride Classic",
+          "price": 5500,
+          "duration": "3.5 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Classic bridal makeup", "Lashes", "Fixing"],
+          "note": "Good balance between price and quality"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1_q2-xj-QF4cL_Gl3vnZxOl9T8SX_1kPB"
+      ]
+    },
+    {
+      "id": "705",
+      "name": "Ola Ashmawy",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1iANny591sDLP_5oVmNArXBhPkQ0frfsT",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01016622104",
+      "website": "https://www.instagram.com/olaaaashmawymakeupartist/",
+      "rating": 3.6,
+      "description": "Specializes in soft glam and full glam bridal makeup with emphasis on comfortable wear and lasting results. Creates stunning looks that enhance your features and stay flawless throughout your wedding celebration.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Hager",
+          "comment": "Soft glam style",
+          "rate": 4
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Soft Glam",
+          "price": 4200,
+          "duration": "3 hours",
+          "onLocation": false,
+          "recommended": false,
+          "services": ["Soft glam makeup", "Lashes"],
+          "note": "Trendy look"
+        },
+        {
+          "id": 2,
+          "title": "Full Glam Bride",
+          "price": 7200,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Full glam bridal makeup", "Lashes", "Fixing"],
+          "note": "Bold bridal look"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1iANny591sDLP_5oVmNArXBhPkQ0frfsT"
+      ]
+    },
+    {
+      "id": "706",
+      "name": "Zeina Elnaggar",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1LBT2syy2mIPre_7SWhD_zzq7h6F7sau9",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01006069356",
+      "website": "https://www.instagram.com/zeinaelnaggar/",
+      "rating": 4.9,
+      "description": "Delivers luxury bridal makeup using premium products and professional techniques for a flawless, long-lasting finish. Specializes in signature looks with meticulous attention to detail and dedicated support throughout your wedding day.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Hala",
+          "comment": "Luxury bridal makeup",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Bride Signature",
+          "price": 9000,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Signature bridal makeup", "Premium lashes", "Fixing"],
+          "note": "High-end products"
+        },
+        {
+          "id": 2,
+          "title": "Bride Full Day",
+          "price": 13000,
+          "duration": "Full day",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Luxury bridal makeup",
+            "Touch-ups",
+            "Stay till reception"
+          ],
+          "note": "For long weddings"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1LBT2syy2mIPre_7SWhD_zzq7h6F7sau9"
+      ]
+    },
+    {
+      "id": "707",
+      "name": "Mai Elbahy",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1DImtwWUJ1q8p5gt9IZ7K465_7b0G1MVA",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01000224843",
+      "website": "https://www.instagram.com/mai_elbahey/",
+      "rating": 4.9,
+      "description": "Creates elegant and timeless bridal makeup with a focus on comfort and professional finish that lasts through your entire wedding. Uses high-quality products and expert techniques to ensure you look and feel beautiful on your special day.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Yasmin",
+          "comment": "Perfect bridal glam",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Classic Bride",
+          "price": 8500,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Classic bridal makeup", "Lashes", "Fixing"],
+          "note": "Elegant timeless look"
+        },
+        {
+          "id": 2,
+          "title": "Luxury Bride",
+          "price": 12500,
+          "duration": "Full day",
+          "onLocation": true,
+          "recommended": false,
+          "services": ["Luxury makeup", "Touch-ups", "Stay till reception"],
+          "note": "Premium experience"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1DImtwWUJ1q8p5gt9IZ7K465_7b0G1MVA"
+      ]
+    },
+    {
+      "id": "708",
+      "name": "Zeina Zeyada",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1Vu868gNzVuFzi59acB6fZ5ECI5lHD1ss",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01010304588",
+      "website": "https://www.instagram.com/zeinazeyada/",
+      "rating": 4.9,
+      "description": "Specializes in glamorous bridal makeup with expert application and finishing techniques for a stunning, polished look. Ensures makeup stays flawless all day with professional fixing and provides dedicated support throughout your wedding celebration.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Rana",
+          "comment": "Perfect glam look",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Glam Bride",
+          "price": 8500,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Glam bridal makeup", "Lashes", "Fixing"],
+          "note": "High-impact glam"
+        },
+        {
+          "id": 2,
+          "title": "Luxury Glam",
+          "price": 12000,
+          "duration": "Full day",
+          "onLocation": true,
+          "recommended": false,
+          "services": [
+            "Luxury glam makeup",
+            "Touch-ups",
+            "Stay till reception"
+          ],
+          "note": "Red carpet finish"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Vu868gNzVuFzi59acB6fZ5ECI5lHD1ss",
+        "https://drive.google.com/uc?export=view&id=1TB6HKaNfTufhD8RvIW1lymZNYqf6UsS4"
+      ]
+    },
+    {
+      "id": "709",
+      "name": "Asmaa Nossier",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1SdFR8JjXCTPqC_pRU-MMUuPW9CW75YcE",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01097066454",
+      "website": "https://www.instagram.com/makeupby_asmanossier/",
+      "rating": 4.9,
+      "description": "Offers clean, professional bridal makeup with luxury products and meticulous attention to detail for a flawless finish. Specializes in soft to luxurious styles with emphasis on comfort and long-lasting results throughout your wedding day.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Dina",
+          "comment": "Very clean makeup",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Soft Bride",
+          "price": 7800,
+          "duration": "3.5 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Soft bridal makeup", "Lashes"],
+          "note": "Soft elegant style"
+        },
+        {
+          "id": 2,
+          "title": "Bride Deluxe",
+          "price": 11500,
+          "duration": "Full day",
+          "onLocation": true,
+          "recommended": false,
+          "services": ["Luxury bridal makeup", "Fixing", "Stay till reception"],
+          "note": "Deluxe service"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1SdFR8JjXCTPqC_pRU-MMUuPW9CW75YcE",
+        "https://drive.google.com/uc?export=view&id=1Ip96hKfU_Yp6zgyyV9U6nwA1Qg3BSKnG"
+      ]
+    },
+    {
+      "id": "710",
+      "name": "Aya Elbatt",
+      "profileImage": "https://drive.google.com/uc?export=view&id=1ER3MedYzEskujbbsG2hxgPCvaDvseizM",
+      "categoryId": 7,
+      "location": "Cairo",
+      "phone": "01093560771",
+      "website": "https://www.instagram.com/aya_elbatt/",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "id": 1,
+          "user": "Farah",
+          "comment": "Amazing bridal look",
+          "rate": 5
+        }
+      ],
+      "packages": [
+        {
+          "id": 1,
+          "title": "Bride Look",
+          "price": 8000,
+          "duration": "4 hours",
+          "onLocation": true,
+          "recommended": true,
+          "services": ["Bridal makeup", "Lashes", "Fixing"],
+          "note": "Clean bridal look"
+        },
+        {
+          "id": 2,
+          "title": "Bride Full Day",
+          "price": 12000,
+          "duration": "Full day",
+          "onLocation": true,
+          "recommended": false,
+          "services": ["Bridal makeup", "Touch-ups", "Stay till reception"],
+          "note": "All-day coverage"
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1ER3MedYzEskujbbsG2hxgPCvaDvseizM",
+        "https://drive.google.com/uc?export=view&id=1A-zl826phSPfOdrssJALbhJDZThZwVH0"
+      ]
+    },
+    {
+      "id": "901",
+      "name": "Samuel Ragaie Photography",
+      "categoryId": 9,
+      "location": "Egypt",
+      "phone": "01276915914",
+      "website": "https://www.instagram.com/samuelragaiephotography",
+      "rating": 4.5,
+      "profileImage": "https://drive.google.com/uc?export=view&id=1inmOsFLuC30XY3PuLeKCb-s18PVeQ5pR",
+      "description": "Provides professional wedding photography that captures your special moments naturally and authentically. Creates a calm, comfortable environment on your wedding day to ensure genuine emotions and beautiful memories are preserved.",
+      "packages": [],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1OrXtzMbuLNVEBsLY6frVmRDb7PrlkpTG",
+        "https://drive.google.com/uc?export=view&id=16qcJyaNiqCUHinlaKqhvumVetdihEB4B",
+        "https://drive.google.com/uc?export=view&id=15mJuQ8uc_3bNQbLJ8T58Oa4rXcf91Miu",
+        "https://drive.google.com/uc?export=view&id=1sf-ERvJ5mN7sD4DOlAAr32_hHRFqe-p7",
+        "https://drive.google.com/uc?export=view&id=1sespzsS2xtIzcbdRsLxLBdZ_jEZvJ0HG",
+        "https://drive.google.com/uc?export=view&id=1s3JU9xDaWKQ0H_ns9MBObhNf1CetGqR9"
+      ]
+    },
+    {
+      "id": "902",
+      "name": "Karam Fouad Photography",
+      "categoryId": 9,
+      "location": "Egypt",
+      "phone": "01091997149",
+      "website": "https://www.instagram.com/karamfouadphotography",
+      "rating": 4.4,
+      "profileImage": "https://drive.google.com/uc?export=view&id=1P9nd35LUhmR7T8PY9FLOfJMDbCEJr-0l",
+      "description": "Captures wedding moments with a natural, relaxed approach that reflects genuine emotions and real celebrations. Offers comprehensive coverage from preparation through reception with professional editing and clear deliverables.",
+      "packages": [
+        {
+          "id": 1,
+          "title": "Engagement Session",
+          "price": 5500,
+          "duration": "2 hours",
+          "services": ["One photographer", "Indoor or outdoor shoot"],
+          "deliverables": ["50 edited photos", "Online gallery"]
+        },
+        {
+          "id": 2,
+          "title": "Wedding Day Coverage",
+          "price": 13000,
+          "duration": "Full day",
+          "services": [
+            "Bride preparation",
+            "Ceremony coverage",
+            "Reception coverage"
+          ],
+          "deliverables": [
+            "200 edited photos",
+            "Online gallery",
+            "USB delivery"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1sjzlmi3j0WjOGToSGOUarh7iYC7ODzvX",
+        "https://drive.google.com/uc?export=view&id=1QK6jvuB4cElPZ9r9lJgXFffaKC4iP3dl",
+        "https://drive.google.com/uc?export=view&id=1ahQlgguN-x-Prwd_uLW04BvUp1KzVXyA",
+        "https://drive.google.com/uc?export=view&id=1UOC32fGXxTllzEbFu96N1rVzO9Ri5MhK",
+        "https://drive.google.com/uc?export=view&id=1fnkTPS5zn26Hedt4i26Iwv_wR0rVMPsQ",
+        "https://drive.google.com/uc?export=view&id=1BDL-4iVXF8rX5EWxSBwtRr3ctSpfQCxP"
+      ]
+    },
+    {
+      "id": "903",
+      "name": "Amr Farrag Photography",
+      "categoryId": 9,
+      "location": "Egypt",
+      "phone": "",
+      "website": "https://www.instagram.com/amr.farrag.photography",
+      "rating": 4.9,
+      "profileImage": "https://drive.google.com/uc?export=view&id=1-bIk4iTH8xmqKw3xpSD18pkmgzjIwlEl",
+      "description": "Specializes in capturing wedding moments with artistic clarity and a natural photographic style. Combines professional expertise with a calm approach to document your special day authentically and beautifully.",
+      "packages": [
+        {
+          "id": 1,
+          "title": "Couple Session",
+          "price": 6500,
+          "duration": "2 hours",
+          "services": [
+            "One photographer",
+            "Creative poses",
+            "Indoor or outdoor shoot"
+          ],
+          "deliverables": ["60 edited photos", "Online gallery"]
+        },
+        {
+          "id": 2,
+          "title": "Wedding Day Coverage",
+          "price": 14000,
+          "duration": "Full day",
+          "services": [
+            "Bride preparation",
+            "Ceremony coverage",
+            "Reception coverage",
+            "Artistic editing style"
+          ],
+          "deliverables": [
+            "220 edited photos",
+            "Online gallery",
+            "USB delivery"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1AkOxgWgy1uPeV8RNHf7QYl5MHln6YcBo",
+        "https://drive.google.com/uc?export=view&id=1OGXgrVBITmZjON6_eZPJTwVv1j06_zUY",
+        "https://drive.google.com/uc?export=view&id=1iFFTuRVK8r7rEg2c3x_KgtmOiGdshq72",
+        "https://drive.google.com/uc?export=view&id=19vWp_GVc3YDHDM0dlthlM_wRBghausoX",
+        "https://drive.google.com/uc?export=view&id=1AIjtl9D3v9aAks_g675JgojeU0MhvP-Q",
+        "https://drive.google.com/uc?export=view&id=1cEz2k_22Ye9EW2YSMLFzTkL-UEmGdW1t"
+      ]
+    },
+    {
+      "id": "904",
+      "name": "Fatma Habib Photography",
+      "categoryId": 9,
+      "location": "Cairo",
+      "phone": "",
+      "website": "https://www.instagram.com/fatmahabibph",
+      "rating": 4.6,
+      "profileImage": "https://drive.google.com/uc?export=view&id=1nqRHF3wpPviB5aMnjl-x6nh1SD0PpPp-",
+      "description": "Provides wedding photography that captures moments naturally throughout your celebration. Works with a calm, professional approach to document the day's meaningful events with clarity and artistic quality.",
+      "packages": [
+        {
+          "id": 1,
+          "title": "Portrait Session",
+          "price": 5000,
+          "duration": "2 hours",
+          "services": ["One photographer", "Indoor or outdoor shoot"],
+          "deliverables": ["40 edited photos", "Online gallery"]
+        },
+        {
+          "id": 2,
+          "title": "Wedding Day Coverage",
+          "price": 11000,
+          "duration": "Full day",
+          "services": [
+            "Bride preparation",
+            "Ceremony coverage",
+            "Reception coverage"
+          ],
+          "deliverables": [
+            "180 edited photos",
+            "Online gallery",
+            "USB delivery"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1zh2312yvofcJCNktqWth1VCQt3VUWvv-",
+        "https://drive.google.com/uc?export=view&id=1uU433iw9T-xqMdldiws5FmdYWoK1a1PB",
+        "https://drive.google.com/uc?export=view&id=1g0fQrjCMTIPCC0vywWUjVYJuAVDXUHdp",
+        "https://drive.google.com/uc?export=view&id=1J_hGr-zwl8cbIlUrr7ZYOESQ9ClGFXA9",
+        "https://drive.google.com/uc?export=view&id=1rlhh4-Y4-MSxbDUUqZh_po0SH97UPu4r",
+        "https://drive.google.com/uc?export=view&id=1NH62-EXJL6m_nAs_nCrkj4MqGbYeTFyH"
+      ]
+    },
+    {
+      "id": "905",
+      "name": "Nada Mogahed Photography",
+      "categoryId": 9,
+      "location": "Cairo",
+      "phone": "01025138842",
+      "website": "https://www.instagram.com/nada.mogahed",
+      "rating": 4.7,
+      "profileImage": "https://drive.google.com/uc?export=view&id=16x6iqAfeugFqz9JksPyvdIdpRWVkIRiq",
+      "description": "Offers comprehensive wedding photography that captures authentic moments naturally throughout your celebration. Brings professional expertise and a calm, approachable style to document your special day beautifully.",
+      "packages": [
+        {
+          "id": 1,
+          "title": "Engagement Shoot",
+          "price": 6000,
+          "duration": "2 hours",
+          "services": ["One photographer", "Indoor or outdoor shoot"],
+          "deliverables": ["50 edited photos", "Online gallery"]
+        },
+        {
+          "id": 2,
+          "title": "Wedding Day Package",
+          "price": 12000,
+          "duration": "Full day",
+          "services": [
+            "Two photographers",
+            "Bride preparation",
+            "Ceremony coverage",
+            "Reception coverage"
+          ],
+          "deliverables": [
+            "200 edited photos",
+            "Online gallery",
+            "USB delivery"
+          ]
+        }
+      ],
+      "images": [
+        "https://drive.google.com/uc?export=view&id=16TJU0S3BsWXl3kmVa92fPx45LQkoPC78",
+        "https://drive.google.com/uc?export=view&id=14xARVdKeNIhLuhVNnq7Qctxc9r_T86nm",
+        "https://drive.google.com/uc?export=view&id=1VBtdljys4UFnF-CkMMJlhYx3kfJOYGIz",
+        "https://drive.google.com/uc?export=view&id=1CTZ6E7y8twqYTYLPNMVryBRQiRpnxBCo",
+        "https://drive.google.com/uc?export=view&id=1uQuPKtWvThqtP5NDssyrstthFBwZ2QPK",
+        "https://drive.google.com/uc?export=view&id=166NtH9_lPTPVx7cUZHBm-1Dt7IC-pPoD"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "501",
+      "title": "Wedding Mirror Welcome Sign",
+      "categoryId": 5,
+      "price": 1800,
+      "description": "Personalized mirror welcome board with floral design.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=11eSXUnr8dH23hrGpnhNwp71LOjOU-97k"
+      ]
+    },
+    {
+      "id": "502",
+      "title": "Engraved Wedding Mirror",
+      "categoryId": 5,
+      "price": 2200,
+      "description": "Engraved mirror with bride and groom names.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1euOUG22MpGLYIQCIIH2FH97QWJZPj5kq"
+      ]
+    },
+    {
+      "id": "503",
+      "title": "Katb El Ketab Fingerprint Frame",
+      "categoryId": 5,
+      "price": 950,
+      "description": "Fingerprint guest frame for Katb El Ketab ceremony.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1zk8XueVcxEfyPW5hB2OZJkemgpWyjXjL"
+      ]
+    },
+    {
+      "id": "504",
+      "title": "Fingerprint Ink Set",
+      "categoryId": 5,
+      "price": 350,
+      "description": "Colored ink pads for fingerprint ceremony.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1sXILi6gqHwH3ok7I_3yvtez1wCxr25fR"
+      ]
+    },
+    {
+      "id": "505",
+      "title": "Pearl Bridal Headpiece",
+      "categoryId": 5,
+      "price": 1200,
+      "description": "Pearl bridal headpiece for wedding look.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1PZAoY_CtKnQOjrw4JA7poHkgvw0088hd"
+      ]
+    },
+    {
+      "id": "506",
+      "title": "Crystal Bridal Headpiece",
+      "categoryId": 5,
+      "price": 1600,
+      "description": "Crystal headpiece with premium finish.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1o84V9sXjB8FVNsG-8GL7LA4dtc0FDNzx"
+      ]
+    },
+    {
+      "id": "507",
+      "title": "Rose Bridal Bouquet",
+      "categoryId": 5,
+      "price": 1400,
+      "description": "Handmade rose bridal bouquet.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1r8B9u8XrvlREQikpjgpmAd0nUT38NeEg"
+      ]
+    },
+    {
+      "id": "508",
+      "title": "White Bridal Bouquet",
+      "categoryId": 5,
+      "price": 1500,
+      "description": "Classic white bridal bouquet.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=13taq_El4XoxaBvwqqKV7pW8bTgVywAEz"
+      ]
+    },
+    {
+      "id": "509",
+      "title": "Floral Wedding Invitations",
+      "categoryId": 5,
+      "price": 600,
+      "description": "Floral printed wedding invitations set.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1hjmlkltVe6gOi4dmM99I-9NJb3YGtlae"
+      ]
+    },
+    {
+      "id": "510",
+      "title": "Minimal Wedding Invitations",
+      "categoryId": 5,
+      "price": 550,
+      "description": "Minimal style wedding invitation cards.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1KkvDB91ODFT3fJDdnBC2CZ9xz7r4ddlO"
+      ]
+    },
+    {
+      "id": "511",
+      "title": "Wedding Wishes Book Classic",
+      "categoryId": 5,
+      "price": 700,
+      "description": "Guest book for wedding wishes.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1o84V9sXjB8FVNsG-8GL7LA4dtc0FDNzx"
+      ]
+    },
+    {
+      "id": "512",
+      "title": "Floral Wishes Book",
+      "categoryId": 5,
+      "price": 850,
+      "description": "Floral design wedding wishes book.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Iko62Ogslh-LZUtCgRiTvuXBtmt1fCRm"
+      ]
+    },
+    {
+      "id": "513",
+      "title": "Wooden Welcome Wedding Board",
+      "categoryId": 5,
+      "price": 1100,
+      "description": "Wooden welcome board for wedding entrance.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1WCMyNEmnQRMfTeMM8yr1U3VVotzSFmsg"
+      ]
+    },
+    {
+      "id": "514",
+      "title": "Acrylic Welcome Wedding Board",
+      "categoryId": 5,
+      "price": 1300,
+      "description": "Acrylic board with modern typography.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=11eSXUnr8dH23hrGpnhNwp71LOjOU-97k"
+      ]
+    },
+    {
+      "id": "515",
+      "title": "Wedding Seating Plan Mirror",
+      "categoryId": 5,
+      "price": 2600,
+      "description": "Large mirror seating plan for guests.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1jJ81XrLWAHmMosG2b8ulLQpS7uXRr80R"
+      ]
+    },
+    {
+      "id": "516",
+      "title": "Katb El Ketab Signature Cloth",
+      "categoryId": 5,
+      "price": 450,
+      "description": "Signature cloth for Katb El Ketab ceremony.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1Dt3enmfkkbkTjuVjgBcH9W3EdUI2xQ9T"
+      ]
+    },
+    {
+      "id": "517",
+      "title": "Wedding Favors Gift Boxes",
+      "categoryId": 5,
+      "price": 300,
+      "description": "Customized wedding favor boxes.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1G-Zt2DXk9ezc44FjH8Cd2uKcrESI3Y-Q"
+      ]
+    },
+    {
+      "id": "518",
+      "title": "Artificial Bridal Bouquet",
+      "categoryId": 5,
+      "price": 900,
+      "description": "Artificial bridal bouquet with premium finish.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1tNLI7du-mq8KbvSbc5ONJjwQkR-XfMvs"
+      ]
+    },
+    {
+      "id": "801",
+      "title": "Red Roses Bouquet",
+      "categoryId": 8,
+      "price": 200,
+      "description": "Fresh red rose arrangement for wedding ceremonies and receptions. Versatile for bridal bouquets or table centerpieces.",
+      "images": [
+        "https://images.pexels.com/photos/30456326/pexels-photo-30456326.jpeg"
+      ]
+    },
+    {
+      "id": "802",
+      "title": "Classic Wedding Gown",
+      "categoryId": 8,
+      "price": 1500,
+      "description": "Classic wedding gown with delicate lace and flowing train in timeless style. Features a traditional fitted bodice with elegant draping.",
+      "images": [
+        "https://images.unsplash.com/photo-1629045741329-37f47cb10b88?w=600&auto=format&fit=crop&q=60"
+      ]
+    },
+    {
+      "id": "808",
+      "title": "Classic Wedding Gown",
+      "categoryId": 8,
+      "price": 15000,
+      "description": "Classic wedding gown made from premium satin with beadwork and fitted silhouette. Designed for a structured, elegant bridal appearance.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1bq3Bv2jXzLxmXgNjKalrvlzO-B7awwYE"
+      ]
+    },
+    {
+      "id": "809",
+      "title": "Off-The-Shoulder Wedding Gown",
+      "categoryId": 8,
+      "price": 13000,
+      "description": "Off-the-shoulder wedding gown with lace detailing and mermaid fit. Designed for a romantic, body-hugging silhouette.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1oa-kz1Ezuyv4Qfsrd2w0HwXbFxuRsg_B"
+      ]
+    },
+    {
+      "id": "810",
+      "title": "Elegant Wedding Gown",
+      "categoryId": 8,
+      "price": 17000,
+      "description": "Elegant wedding gown with sweetheart neckline and full skirt featuring crystal embellishments. Provides a graceful, romantic silhouette.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1hU9ZExvRxfKsScjF9rZlVl16jFhMV4r1"
+      ]
+    },
+    {
+      "id": "811",
+      "title": "Stylish Wedding Gown",
+      "categoryId": 8,
+      "price": 16000,
+      "description": "Modern wedding gown with asymmetric hem and contemporary embroidery details. Offers a stylish, updated silhouette.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1fLFYzDgDgkDSol2Gn5r1qFZbme-tCrCu"
+      ]
+    },
+    {
+      "id": "812",
+      "title": "Bohemian Wedding Gown",
+      "categoryId": 8,
+      "price": 13500,
+      "description": "Bohemian wedding gown with flowing fabrics and floral accents in relaxed fit. Designed for outdoor or garden wedding settings.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=17m5P-1MazCG_N2DulVxNcKT-Lk5Ihxtx"
+      ]
+    },
+    {
+      "id": "813",
+      "title": "Two look Wedding Gown",
+      "categoryId": 8,
+      "price": 14500,
+      "description": "Two-piece wedding gown with convertible design for changing skirts between ceremony and reception. Combines elegance with practical versatility.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=18g5Fri8tJhiUye0JaBgYoEhLPZATxaxf"
+      ]
+    },
+    {
+      "id": "814",
+      "title": "Satin Wedding Gown",
+      "categoryId": 8,
+      "price": 16000,
+      "description": "Satin wedding gown with smooth finish, fitted bodice, and dramatic train. Provides a sophisticated, timeless bridal silhouette.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1CaShO9ht2D9Ek77XKMFw08rbxevTjFy0"
+      ]
+    },
+    {
+      "id": "815",
+      "title": "Mermaid Wedding Gown",
+      "categoryId": 8,
+      "price": 18000,
+      "description": "Mermaid wedding gown with fitted bodice that flares dramatically at the hemline, adorned with pearls and lace. Designed for a curve-hugging silhouette.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1J7ZczxvEuszZXzOQrExC_u0O9dzkv6-4"
+      ]
+    },
+    {
+      "id": "816",
+      "title": "A-line Wedding Gown",
+      "categoryId": 8,
+      "price": 12500,
+      "description": "A-line wedding gown with fitted waist and flowing skirt silhouette. Flattering fit designed for comfort and ease of movement.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=10xfkt5jx2PNbjbS2Alo37cBhoy3rZuL3"
+      ]
+    },
+    {
+      "id": "817",
+      "title": "Royal Wedding Gown",
+      "categoryId": 8,
+      "price": 14500,
+      "description": "Royal-inspired wedding gown with voluminous skirt and intricate embroidery throughout. Designed with a formal, regal silhouette.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1-Zh8qDLQJYB35qBXmbvuBp49LcI0tknA"
+      ]
+    },
+    {
+      "id": "818",
+      "title": "Classic suit",
+      "categoryId": 8,
+      "price": 5000,
+      "description": "Classic wedding suit made from wool with tailored fit and clean lines. Appropriate for formal ceremonies and celebrations.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1seF_r16_9R9aJVCbFAkQiM_bRIhqOzWT"
+      ]
+    },
+    {
+      "id": "819",
+      "title": "Tuxedo suit",
+      "categoryId": 8,
+      "price": 7000,
+      "description": "Tuxedo suit with satin lapels and bow tie included. Designed for black-tie wedding events and evening celebrations.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=12EVJeg8EQO5HWB71WdUxDvgJwf5ReWJq"
+      ]
+    },
+    {
+      "id": "820",
+      "title": "Three-piece suit",
+      "categoryId": 8,
+      "price": 7500,
+      "description": "Three-piece suit with jacket, vest, and trousers in coordinated design. Provides a polished, complete wedding look.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=10Z0JnU67yPVPe-MtZO8IDmMVv3ipwGf6"
+      ]
+    },
+    {
+      "id": "821",
+      "title": "white suit",
+      "categoryId": 8,
+      "price": 6000,
+      "description": "White wedding suit made from lightweight fabric for comfort and breathability. Offers a fresh, modern aesthetic.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1o8CsnPBeDcYFlGMs--vjEKVKmo69aDXd"
+      ]
+    },
+    {
+      "id": "822",
+      "title": "Three-piece white suit",
+      "categoryId": 8,
+      "price": 5500,
+      "description": "Three-piece white suit with jacket, vest, and trousers ensemble. Ideal for beach or summer wedding occasions.",
+      "images": [
+        "https://drive.google.com/uc?export=view&id=1E4mSV6Jwasj2aL2p_G4RSNaKt9-jR75W"
+      ]
+    }
+  ],
+  "testimonials": [],
+  "blogs": [
+    {
+      "id": "1",
+      "category": "Wedding Planning",
+      "title": "How to Plan Your Wedding Without Feeling Overwhelmed",
+      "breadcrumbTitle": "Plan Your Wedding",
+      "date": "12 Mar 2024",
+      "image": "/src/assets/images/blog/img1.png",
+      "summary": "Wedding planning can feel overwhelming without structure. A clear approach helps you stay calm and focused.",
+      "content": "Planning a wedding often starts with excitement and quickly turns into pressure.\nThe number of decisions timelines and opinions can feel endless.\nThe key is to slow down and focus on structure rather than perfection.\n\nStart by defining what truly matters to you and your partner.\nThis could be the guest experience photography or the overall atmosphere.\nOnce priorities are clear decisions become easier and less emotional.\n\nBreak the planning process into stages.\nWork month by month instead of trying to solve everything at once.\nA realistic timeline reduces stress and allows you to enjoy the journey instead of rushing through it.",
+      "quote": {
+        "text": "Good planning does not remove emotion from weddings. It protects it.",
+        "author": "Zeffaf Planning Team"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Mariam",
+          "comment": "This really helped me slow down and stop panicking about every detail.",
+          "date": "14 Mar 2024"
+        },
+        {
+          "id": 2,
+          "name": "Nour",
+          "comment": "Breaking the planning into stages made a big difference for me.",
+          "date": "15 Mar 2024"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Wedding Planning",
+      "title": "Mistakes Couples Make During Early Wedding Planning",
+      "breadcrumbTitle": "Avoid Mistakes",
+      "date": "25 Feb 2024",
+      "image": "/src/assets/images/blog/img2.png",
+      "summary": "Many planning mistakes happen early. Awareness helps you avoid stress later.",
+      "content": "One of the most common mistakes couples make is starting without a clear budget.\nExcitement leads to early bookings that later limit flexibility.\nThis creates unnecessary financial pressure.\n\nAnother issue is listening to too many opinions.\nWhile advice can be helpful too many voices cause confusion.\nYour wedding should reflect you not everyone else.\n\nFinally delaying important bookings often leads to compromise.\nPopular venues and vendors fill quickly.\nEarly research gives you better options and peace of mind.",
+      "quote": {
+        "text": "Early clarity prevents late regret.",
+        "author": "Wedding Advisor"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Heba",
+          "comment": "We made almost all of these mistakes at the beginning.",
+          "date": "26 Feb 2024"
+        },
+        {
+          "id": 2,
+          "name": "Rana",
+          "comment": "The part about too many opinions is very true.",
+          "date": "27 Feb 2024"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Wedding Planning",
+      "title": "How to Build a Realistic Wedding Timeline",
+      "breadcrumbTitle": "Wedding Timeline",
+      "date": "18 Jan 2024",
+      "image": "/src/assets/images/blog/img3.png",
+      "summary": "A realistic timeline keeps your planning organized and stress free.",
+      "content": "A wedding timeline is more than a checklist.\nIt is a roadmap that keeps every part of your day aligned.\nWithout it small delays quickly turn into chaos.\n\nStart from the ceremony time and work backwards.\nInclude preparation photography transportation and buffer time.\nAlways allow space for the unexpected.\n\nSharing the timeline with vendors and your wedding party creates alignment.\nWhen everyone knows what is expected the day flows naturally.",
+      "quote": {
+        "text": "Time management is what turns a busy wedding into a smooth one.",
+        "author": "Event Planner"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Salma",
+          "comment": "I never thought about adding buffer time before reading this.",
+          "date": "19 Jan 2024"
+        },
+        {
+          "id": 2,
+          "name": "Aya",
+          "comment": "Sharing the timeline with vendors saved us on the wedding day.",
+          "date": "20 Jan 2024"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category": "Photography",
+      "title": "How to Choose a Wedding Photographer You Trust",
+      "breadcrumbTitle": "Choose a Photographer",
+      "date": "02 Apr 2024",
+      "image": "/src/assets/images/blog/img4.jpg",
+      "summary": "Trust matters more than style when choosing a wedding photographer.",
+      "content": "Wedding photography is not only about beautiful images.\nIt is about feeling comfortable in front of the camera.\nTrust allows natural moments to happen.\n\nReview full galleries instead of highlight reels.\nConsistency tells you more than a few perfect shots.\nPay attention to how moments are captured not just poses.\n\nA good photographer blends into the day.\nThey guide when needed and disappear when moments unfold naturally.",
+      "quote": {
+        "text": "The best photos come from trust not direction.",
+        "author": "Photography Guide"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Lina",
+          "comment": "Trust really matters more than style.",
+          "date": "03 Apr 2024"
+        },
+        {
+          "id": 2,
+          "name": "Dina",
+          "comment": "Looking at full galleries changed how I chose my photographer.",
+          "date": "04 Apr 2024"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category": "Photography",
+      "title": "Why Full Wedding Albums Matter More Than Highlights",
+      "breadcrumbTitle": "Full Wedding Albums",
+      "date": "19 Mar 2024",
+      "image": "/src/assets/images/blog/img5.jpg",
+      "summary": "Highlights show style. Full albums show reliability.",
+      "content": "Highlight photos are designed to impress.\nThey do not show how a photographer handles an entire event.\nFull albums reveal consistency lighting and storytelling.\n\nLook for balance between candid and guided moments.\nNotice how emotions are captured across different times of day.\nThis reflects true experience.\n\nReliable photographers deliver quality from start to finish.\nThat reliability becomes priceless on your wedding day.",
+      "quote": {
+        "text": "Consistency is the real measure of professional photography.",
+        "author": "Wedding Media Expert"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Reem",
+          "comment": "I used to focus only on highlights. This changed my mindset.",
+          "date": "20 Mar 2024"
+        },
+        {
+          "id": 2,
+          "name": "Nada",
+          "comment": "Consistency is something I never considered before.",
+          "date": "21 Mar 2024"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "category": "Photography",
+      "title": "How to Feel Comfortable in Front of the Camera",
+      "breadcrumbTitle": "Comfort in front of Camera",
+      "date": "28 Feb 2024",
+      "image": "/src/assets/images/blog/img6.jpg",
+      "summary": "Comfort leads to natural and meaningful wedding photos.",
+      "content": "Many couples worry about feeling awkward during photos.\nThis fear is normal and completely manageable.\nThe right photographer creates a relaxed environment.\n\nEngagement sessions help build confidence.\nThey allow you to experience the photographer's style early.\nComfort grows with familiarity.\n\nOn the wedding day focus on your partner not the camera.\nGenuine connection always looks better than forced poses.",
+      "quote": {
+        "text": "Comfort creates honesty in photos.",
+        "author": "Wedding Photographer"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Yasmin",
+          "comment": "Engagement sessions really helped us feel relaxed.",
+          "date": "01 Mar 2024"
+        },
+        {
+          "id": 2,
+          "name": "Farah",
+          "comment": "Focusing on my partner instead of the camera actually worked.",
+          "date": "02 Mar 2024"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "category": "Venues",
+      "title": "How to Choose a Wedding Venue That Fits Your Vision",
+      "breadcrumbTitle": "Choose a Venue",
+      "date": "05 May 2024",
+      "image": "/src/assets/images/blog/img7.jpeg",
+      "summary": "Your venue shapes the entire wedding experience. Choosing the right one brings clarity to every other decision.",
+      "content": "Choosing a wedding venue is often the first major decision couples make.\nThe venue influences guest count decor style and even the event timeline.\nA clear vision helps narrow choices quickly.\n\nStart by considering logistics.\nLocation accessibility and capacity matter more than appearance alone.\nA beautiful venue that causes inconvenience can affect guest experience.\n\nVisit venues in person whenever possible.\nPay attention to lighting layout and flow between spaces.\nThese details impact how comfortable and natural the event feels.",
+      "quote": {
+        "text": "A venue should support your day not complicate it.",
+        "author": "Venue Consultant"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Hanan",
+          "comment": "Logistics were the hardest part for us. This was useful.",
+          "date": "06 May 2024"
+        },
+        {
+          "id": 2,
+          "name": "Nada",
+          "comment": "Visiting venues in person made everything clearer.",
+          "date": "07 May 2024"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "category": "Venues",
+      "title": "Indoor vs Outdoor Venues What You Should Know",
+      "breadcrumbTitle": "Indoor vs Outdoor Venues",
+      "date": "21 Apr 2024",
+      "image": "/src/assets/images/blog/img8.jpg",
+      "summary": "Both indoor and outdoor venues offer benefits. The right choice depends on planning and priorities.",
+      "content": "Outdoor venues provide natural beauty and open space.\nHowever they require strong backup plans.\nWeather unpredictability is always a factor.\n\nIndoor venues offer structure and climate control.\nThey simplify logistics and reduce last minute concerns.\nDecor becomes the main creative focus.\n\nYour comfort and guest experience should guide the choice.\nFlexibility and preparation matter more than trends.",
+      "quote": {
+        "text": "The best venue is the one you feel prepared for.",
+        "author": "Wedding Planner"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Menna",
+          "comment": "The backup plan advice is so important.",
+          "date": "22 Apr 2024"
+        },
+        {
+          "id": 2,
+          "name": "Rania",
+          "comment": "Indoor venues felt safer for us after reading this.",
+          "date": "23 Apr 2024"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "category": "Venues",
+      "title": "Questions to Ask Before Booking a Wedding Venue",
+      "breadcrumbTitle": "Booking Questions",
+      "date": "10 Mar 2024",
+      "image": "/src/assets/images/blog/img9.jpg",
+      "summary": "Asking the right questions early prevents confusion and extra costs later.",
+      "content": "Before signing a venue contract clarity is essential.\nAsk about setup time noise limits and vendor restrictions.\nThese details affect planning flexibility.\n\nUnderstand what is included in the package.\nTables lighting parking and security are often overlooked.\nHidden costs can quickly add up.\n\nClear communication protects your budget and timeline.\nWritten confirmations prevent misunderstandings.",
+      "quote": {
+        "text": "Good questions protect your investment.",
+        "author": "Event Coordinator"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Sara",
+          "comment": "I wish I had asked these questions earlier.",
+          "date": "11 Mar 2024"
+        },
+        {
+          "id": 2,
+          "name": "Hager",
+          "comment": "Hidden costs almost ruined our budget.",
+          "date": "12 Mar 2024"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "category": "Beauty",
+      "title": "How to Prepare Your Skin for Your Wedding Day",
+      "breadcrumbTitle": "Skin Care Preparation",
+      "date": "14 Feb 2024",
+      "image": "/src/assets/images/blog/img10.jpg",
+      "summary": "Healthy skin comes from consistency not last minute treatments.",
+      "content": "Skincare preparation should begin months before the wedding.\nConsistency matters more than expensive products.\nSimple routines often deliver the best results.\n\nHydration sun protection and gentle exfoliation improve skin quality.\nAvoid experimenting with new treatments close to the date.\nStability keeps skin calm and balanced.\n\nGood skin enhances makeup application.\nIt allows artists to focus on enhancement not correction.",
+      "quote": {
+        "text": "Healthy skin is the foundation of bridal beauty.",
+        "author": "Skincare Specialist"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Laila",
+          "comment": "Consistency really made my skin calmer.",
+          "date": "15 Feb 2024"
+        },
+        {
+          "id": 2,
+          "name": "Mona",
+          "comment": "I stopped trying new products because of this.",
+          "date": "16 Feb 2024"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "category": "Beauty",
+      "title": "How to Choose the Right Bridal Makeup Style",
+      "breadcrumbTitle": "Bridal Makeup Style",
+      "date": "30 Jan 2024",
+      "image": "/src/assets/images/blog/img11.jpg",
+      "summary": "The right makeup style enhances your features without changing who you are.",
+      "content": "Bridal makeup should reflect your personality.\nTrends change but authenticity lasts.\nYour comfort matters more than heavy coverage.\n\nTrials are essential.\nThey help adjust tones textures and longevity.\nClear communication with your artist ensures satisfaction.\n\nNatural looks often photograph best.\nThey age well and feel effortless throughout the day.",
+      "quote": {
+        "text": "Bridal makeup should feel like you on your best day.",
+        "author": "Makeup Artist"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Nada",
+          "comment": "Natural makeup looks much better in photos.",
+          "date": "31 Jan 2024"
+        },
+        {
+          "id": 2,
+          "name": "Rasha",
+          "comment": "The trial session saved me from a bad choice.",
+          "date": "01 Feb 2024"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "category": "Beauty",
+      "title": "Bridal Hair Tips for Long Wedding Days",
+      "breadcrumbTitle": "Bridal Hair Tips ",
+      "date": "09 Dec 2023",
+      "image": "/src/assets/images/blog/img12.jpg",
+      "summary": "A great hairstyle balances beauty comfort and durability.",
+      "content": "Wedding hairstyles must last through hours of movement.\nComfort is as important as appearance.\nHeavy styles often cause tension and fatigue.\n\nConsider weather dress neckline and accessories.\nTrials help test strength and longevity.\nDurable styles create confidence.\n\nThe best hairstyles allow you to forget about your hair.\nFocus stays on the celebration not adjustments.",
+      "quote": {
+        "text": "Comfortable hair creates confident movement.",
+        "author": "Hair Stylist"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Yara",
+          "comment": "Comfortable hairstyles are underrated.",
+          "date": "10 Dec 2023"
+        },
+        {
+          "id": 2,
+          "name": "Mariam",
+          "comment": "I changed my hairstyle plan after reading this.",
+          "date": "11 Dec 2023"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "category": "Budget",
+      "title": "How to Set a Wedding Budget You Can Stick To",
+      "breadcrumbTitle": "a wedding Budget",
+      "date": "20 Apr 2024",
+      "image": "/src/assets/images/blog/img13.jpg",
+      "summary": "A clear wedding budget helps you make confident decisions without stress.",
+      "content": "Setting a wedding budget starts with honesty.\nUnderstand what you can afford before looking at options.\nThis prevents emotional spending and later regret.\n\nDivide the budget by priority.\nSome couples value photography while others focus on guest experience.\nThere is no correct distribution only what feels right for you.\n\nAlways include a buffer.\nUnexpected expenses are normal.\nPreparation allows flexibility without panic.",
+      "quote": {
+        "text": "A budget is not a limit. It is a guide.",
+        "author": "Wedding Financial Advisor"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Hoda",
+          "comment": "The budget buffer advice is very realistic.",
+          "date": "21 Apr 2024"
+        },
+        {
+          "id": 2,
+          "name": "Aya",
+          "comment": "Dividing budget by priority helped a lot.",
+          "date": "22 Apr 2024"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "category": "Budget",
+      "title": "Hidden Wedding Costs Couples Often Forget",
+      "breadcrumbTitle": "Hidden Costs",
+      "date": "11 Mar 2024",
+      "image": "/src/assets/images/blog/img14.jpg",
+      "summary": "Small overlooked expenses can disrupt even the best wedding budgets.",
+      "content": "Hidden costs often appear late in planning.\nService fees overtime charges and transportation are common examples.\nThese add up quickly when unplanned.\n\nReview contracts carefully.\nAsk vendors about additional charges.\nWritten clarity protects your finances.\n\nTracking every expense keeps spending realistic.\nAwareness prevents last minute compromises.",
+      "quote": {
+        "text": "Knowing the details saves money and stress.",
+        "author": "Wedding Planner"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Noha",
+          "comment": "Hidden fees surprised us the most.",
+          "date": "12 Mar 2024"
+        },
+        {
+          "id": 2,
+          "name": "Salma",
+          "comment": "Reading contracts carefully saved us money.",
+          "date": "13 Mar 2024"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "category": "Budget",
+      "title": "How to Save Money Without Sacrificing Quality",
+      "breadcrumbTitle": "Save Money",
+      "date": "05 Feb 2024",
+      "image": "/src/assets/images/blog/img15.webp",
+      "summary": "Smart choices allow savings without reducing the wedding experience.",
+      "content": "Saving money does not mean lowering standards.\nIt means spending intentionally.\nFocus resources on what matters most.\n\nOff season dates and simplified decor reduce costs.\nQuality vendors appreciate clarity and realistic expectations.\n\nThoughtful planning often creates a more personal experience.\nLess excess allows meaningful details to stand out.",
+      "quote": {
+        "text": "Intentional spending creates better weddings.",
+        "author": "Event Consultant"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Hagar",
+          "comment": "Intentional spending really works.",
+          "date": "06 Feb 2024"
+        },
+        {
+          "id": 2,
+          "name": "Mona",
+          "comment": "Less decor made our wedding feel more personal.",
+          "date": "07 Feb 2024"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "category": "Accessories",
+      "title": "How to Choose Accessories That Complete Your Bridal Look",
+      "breadcrumbTitle": "Bridal Accessories",
+      "date": "22 Jan 2024",
+      "image": "/src/assets/images/blog/img16.jpg",
+      "summary": "The right accessories enhance your look without overpowering it.",
+      "content": "Accessories should support your dress not compete with it.\nBalance is essential.\nToo many pieces distract from the overall look.\n\nChoose accessories that reflect your style.\nComfort matters especially for long hours.\nLightweight options often work best.\n\nSimplicity allows elegance to shine.\nEvery detail should feel intentional.",
+      "quote": {
+        "text": "Accessories should enhance not distract.",
+        "author": "Styling Expert"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Lamia",
+          "comment": "I removed half my accessories after reading this.",
+          "date": "23 Jan 2024"
+        },
+        {
+          "id": 2,
+          "name": "Rania",
+          "comment": "Balance really makes a difference.",
+          "date": "24 Jan 2024"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "category": "Accessories",
+      "title": "Bridal Shoes Choosing Comfort and Style",
+      "breadcrumbTitle": "Bridal Shoes",
+      "date": "08 Dec 2023",
+      "image": "/src/assets/images/blog/img18.jpg",
+      "summary": "Comfortable shoes allow you to enjoy every moment of your wedding day.",
+      "content": "Shoes affect how you experience the day.\nDiscomfort quickly becomes distraction.\nTesting shoes in advance prevents pain.\n\nHeel height material and fit matter.\nBreak shoes in before the event.\nBackup shoes provide peace of mind.\n\nComfort allows confidence.\nMovement feels natural when feet feel supported.",
+      "quote": {
+        "text": "Comfort keeps you present in the moment.",
+        "author": "Bridal Stylist"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Dina",
+          "comment": "Breaking in shoes saved my feet.",
+          "date": "09 Dec 2023"
+        },
+        {
+          "id": 2,
+          "name": "Aya",
+          "comment": "Backup shoes are a must.",
+          "date": "10 Dec 2023"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "category": "Accessories",
+      "title": "Jewelry Tips for a Balanced Bridal Look",
+      "breadcrumbTitle": "Bridal Jewelry",
+      "date": "15 Nov 2023",
+      "image": "/src/assets/images/blog/img17.jpg",
+      "summary": "Jewelry choices should feel cohesive and intentional.",
+      "content": "Jewelry should complement your dress neckline and hairstyle.\nToo many statement pieces create visual noise.\nBalance creates harmony.\n\nConsider metal tones and personal significance.\nFamily pieces add emotional value.\nSimple choices often feel timeless.\n\nThe goal is cohesion.\nEvery piece should belong.",
+      "quote": {
+        "text": "Balance creates timeless bridal style.",
+        "author": "Wedding Jewelry Consultant"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "name": "Farida",
+          "comment": "Simple jewelry looked better with my dress.",
+          "date": "16 Nov 2023"
+        },
+        {
+          "id": 2,
+          "name": "Nadine",
+          "comment": "Family jewelry added so much meaning.",
+          "date": "17 Nov 2023"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1766182488545",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1766182695703",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "password": "iopiop"
+    },
+    {
+      "id": "1766183016585",
+      "name": "Ahmed Shawky",
+      "email": "asdsadsadsa@gmail.com",
+      "password": "rightd"
+    },
+    {
+      "id": "1766533047979",
+      "name": "menna assem",
+      "email": "mennaassem1210@gmail.com",
+      "password": "mennna12"
+    },
+    {
+      "id": "1767127514715",
+      "name": "Ahmed Shawky",
+      "email": "accahmedshawkyy@gmail.com",
+      "password": "R4ecqhXim9VihFIRpCFrNKLruwb2",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocLx3MxOUkrnrdqQahBdweiPnty4bLKHuEtJ9uenGQh8nVFdRw=s96-c"
+    },
+    {
+      "id": "1768011225037",
+      "name": "username",
+      "email": "username@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "cartItems": [
+    {
+      "id": "1",
+      "userId": 1766182488545,
+      "productId": "822",
+      "quantity": 2
+    },
+    {
+      "id": "2774",
+      "userId": 1766183016585,
+      "productId": "502",
+      "quantity": 6
+    },
+    {
+      "id": "e0ef",
+      "userId": 1766182695703,
+      "productId": "816",
+      "quantity": 1
+    },
+    {
+      "id": "bd17",
+      "userId": "28f8",
+      "vendorId": "602",
+      "packageId": 1,
+      "title": "Osama Kabeel - Katb Ketab",
+      "price": 2500,
+      "quantity": 1,
+      "bookingDate": null
+    },
+    {
+      "id": "416d",
+      "userId": "1768011225037",
+      "vendorId": "602",
+      "packageId": 2,
+      "title": "Osama Kabeel - Katb Ketab + Advice Session",
+      "price": 3500,
+      "quantity": 1,
+      "bookingDate": null
+    },
+    {
+      "id": "1831",
+      "userId": "28f8",
+      "productId": "501",
+      "quantity": 1
+    },
+    {
+      "id": "dd36",
+      "userId": "28f8",
+      "productId": "509",
+      "quantity": 1
+    },
+    {
+      "id": "785b",
+      "userId": "28f8",
+      "vendorId": "202",
+      "packageId": 2,
+      "title": "Asmaa Veil Designer - Premium Package",
+      "price": 5500,
+      "quantity": 1,
+      "bookingDate": null
+    }
+  ],
+  "messages": [
+    {
+      "id": "ec77",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "test",
+      "message": "test",
+      "date": "2025-12-20T10:51:09.841Z",
+      "userId": null
+    },
+    {
+      "id": "bb2c",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "asdasd",
+      "message": "asdasd",
+      "date": "2025-12-20T10:51:30.968Z",
+      "userId": null
+    },
+    {
+      "id": "571d",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "سلبييلب",
+      "message": "سلسيبلسيبل",
+      "date": "2025-12-22T23:10:27.295Z"
+    },
+    {
+      "id": "fe74",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "بلبسيل",
+      "message": "يبسليسبل",
+      "date": "2025-12-22T23:11:57.182Z"
+    },
+    {
+      "id": "cff3",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "شسبسشب",
+      "message": "شسيبسيشب",
+      "date": "2025-12-22T23:12:24.295Z"
+    },
+    {
+      "id": "b564",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "sdfg",
+      "message": "dfsgdfsgds",
+      "date": "2025-12-22T23:12:52.469Z"
+    },
+    {
+      "id": "d6c0",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "asda",
+      "message": "sdasdas",
+      "date": "2025-12-22T23:14:10.941Z"
+    },
+    {
+      "id": "2863",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "fhgfgdh",
+      "message": "dfghgfh",
+      "date": "2025-12-22T23:18:36.541Z"
+    },
+    {
+      "id": "fecf",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "يسلسل",
+      "message": "يسليسبل",
+      "date": "2025-12-22T23:19:56.956Z"
+    },
+    {
+      "id": "b572",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "subject": "سيبليس",
+      "message": "بليسبليسبل",
+      "date": "2025-12-22T23:20:14.877Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "ea50",
+      "userId": "1766182488545",
+      "itemId": "812",
+      "itemType": "product"
+    },
+    {
+      "id": "3711",
+      "userId": "1766182488545",
+      "itemId": "813",
+      "itemType": "product"
+    }
+  ],
+  "Apointments": [
+    {
+      "id": "90ab",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "شسيسشيسشي",
+      "date": "",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "شسيشسيشسي",
+      "createdAt": "2025-12-29T18:47:57.736Z"
+    },
+    {
+      "id": "b710",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "asdasd",
+      "date": "",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdasd",
+      "createdAt": "2025-12-29T18:49:50.209Z"
+    },
+    {
+      "id": "a79a",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "asdasd",
+      "date": "",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdasd",
+      "createdAt": "2025-12-29T18:49:59.480Z"
+    },
+    {
+      "id": "2b8a",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "asdasd",
+      "date": "",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdasd",
+      "createdAt": "2025-12-29T18:50:34.963Z"
+    },
+    {
+      "id": "20a3",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "sadsad",
+      "date": "2025-12-12",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdsad",
+      "createdAt": "2025-12-29T18:50:49.128Z"
+    },
+    {
+      "id": "d903",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "sadsad",
+      "date": "2025-12-12",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdsad",
+      "createdAt": "2025-12-29T18:51:11.736Z"
+    },
+    {
+      "id": "cfe2",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "sadsad",
+      "date": "2026-01-01",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdsad",
+      "createdAt": "2025-12-29T18:51:19.824Z"
+    },
+    {
+      "id": "5659",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "",
+      "date": "2025-12-13",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "",
+      "createdAt": "2025-12-29T18:51:51.941Z"
+    },
+    {
+      "id": "3683",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "asdasdasd",
+      "date": "2025-12-13",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdasdasd",
+      "createdAt": "2025-12-29T18:51:57.440Z"
+    },
+    {
+      "id": "17c5",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "asdasdasd",
+      "date": "2025-12-13",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdasdasd",
+      "createdAt": "2025-12-29T18:52:07.311Z"
+    },
+    {
+      "id": "e21e",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "religion": "شسيسشيسشي",
+      "date": "",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "asdasdas",
+      "createdAt": "2025-12-29T18:52:57.264Z"
+    },
+    {
+      "id": "5069",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "date": "2025-12-29",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "شسيسشي",
+      "createdAt": "2025-12-29T19:02:09.468Z"
+    },
+    {
+      "id": "6090",
+      "name": "Ahmed Shawky",
+      "email": "shawkyipahmed@gmail.com",
+      "phone": "01007758044",
+      "date": "2025-12-30",
+      "address": "6 شارع بدران من مصنع النسيج متفرع من مؤسسة الزكاه عزبه النخل الشرقيه بجوار هايبر موسي ع",
+      "message": "Great",
+      "createdAt": "2025-12-30T12:37:12.265Z"
+    },
+    {
+      "id": "6089",
+      "name": "sally",
+      "email": "username@gmail.com",
+      "phone": "01023456789",
+      "date": "2026-01-21",
+      "address": "6 October city",
+      "message": "",
+      "createdAt": "2026-01-10T16:30:25.398Z"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+/* Toastify custom styles for light and dark mode */
+
+/* Light mode */
+.Toastify__toast {
+  font-family: var(--font-body, "Inter", sans-serif);
+  border-radius: 8px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.08);
+}
+.Toastify__toast-theme--light {
+  background: #fff;
+  color: #222;
+}
+.Toastify__toast-theme--light.Toastify__toast--success {
+  border-left: 6px solid var(--primary, #1b7262);
+}
+.Toastify__toast-theme--light.Toastify__toast--error {
+  border-left: 6px solid #e14747;
+}
+
+/* Dark mode */
+.Toastify__toast-theme--dark {
+  background: #181f2a;
+  color: #e5e7eb;
+}
+.Toastify__toast-theme--dark.Toastify__toast--success {
+  border-left: 6px solid var(--green-700, #21976c);
+}
+.Toastify__toast-theme--dark.Toastify__toast--error {
+  border-left: 6px solid #e14747;
+}
+
+.Toastify__close-button {
+  color: inherit;
+}
+
+.Toastify__progress-bar {
+  background: var(--primary, #1b7262);
+}
+.Toastify__toast-icon {
+  color: var(--primary, #1b7262);
+}
